@@ -1,0 +1,2 @@
+rootProject.name='JobFindApp'
+include ':app'

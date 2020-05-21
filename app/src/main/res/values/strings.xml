@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JobFindApp</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Post Job</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="hello_blank_fragment1">Hello Second fragment</string>
+</resources>
